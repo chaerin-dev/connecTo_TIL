@@ -5,6 +5,7 @@ import os
 
 def get_file_list():
     file_list = [file for file in os.listdir("./") if "2022" in file]
+    file_list = sorted(file_list)
     total_file_cnt = len(file_list)
     return file_list, total_file_cnt
   
