@@ -1,7 +1,7 @@
 # connecTo_TIL
 Zerobase connecTo 프론트엔드 스쿨 1기 TIL<br><br>
 ## TIL List
-Total TIL Count: 8개
+Total TIL Count: 9개
 - [20220726.md](https://github.com/chaerin-dev/connecTo_TIL/blob/main/20220726.md)
 - [20220727.md](https://github.com/chaerin-dev/connecTo_TIL/blob/main/20220727.md)
 - [20220728.md](https://github.com/chaerin-dev/connecTo_TIL/blob/main/20220728.md)
@@ -10,4 +10,5 @@ Total TIL Count: 8개
 - [20220802.md](https://github.com/chaerin-dev/connecTo_TIL/blob/main/20220802.md)
 - [20220803.md](https://github.com/chaerin-dev/connecTo_TIL/blob/main/20220803.md)
 - [20220804.md](https://github.com/chaerin-dev/connecTo_TIL/blob/main/20220804.md)
+- [20220805.md](https://github.com/chaerin-dev/connecTo_TIL/blob/main/20220805.md)
 
